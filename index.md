@@ -6,15 +6,15 @@ Hack Reactor Coursework
 
 Learn on your own:
 ------------------
-- [ ] [JFree Javascript books](http://jsbooks.revolunet.com/)
+[JFree Javascript books](http://jsbooks.revolunet.com/)
 
 Questions I want to have answered
 ---------------------------------
-- [ ] How do I merge code with as few conflicts as possible?
-- [ ]  continuous integration.
-- [ ]  Edit and merge the code quickly.
-- [ ] Computer can test css visibility tags.
-- [ ] A human can test if it actually looks correct.
+How do I merge code with as few conflicts as possible?
+- continuous integration.
+- Edit and merge the code quickly.
+Computer can test css visibility tags.
+A human can test if it actually looks correct.
 
 Overview
 --------
