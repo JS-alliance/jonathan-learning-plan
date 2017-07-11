@@ -8,6 +8,13 @@ Learn on your own:
 ------------------
 [JFree Javascript books](http://jsbooks.revolunet.com/)
 
+[Neural Networks](http://neuralnetworksanddeeplearning.com/)
+[Using Reduce](https://egghead.io/courses/reduce-data-with-javascript)
+[](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+CSS selectors(https://youtu.be/-k-1TU8qq0Q)	
+
+
+
 Questions I want to have answered
 ---------------------------------
 How do I merge code with as few conflicts as possible?
@@ -551,6 +558,7 @@ Backend frameworks:
 * Meteor
 * Connect
 * Hapi
+ * [Ovwerview of Hapi(https://www.youtube.com/watch?v=2lprC0yYeFw)]
 
 Databases
 ---------

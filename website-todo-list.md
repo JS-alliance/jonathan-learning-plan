@@ -6,6 +6,9 @@
 * [Build a Pathfinding algorithm](https://www.youtube.com/watch?v=aKYlikFAV4k)
 * [Open graph page for marketing in google and Facebook and Twitter.]()
 * [Google Minify CSS library]()
+* [Make music with NodeJS](https://www.youtube.com/watch?v=dIiwFzFvsmw)
+ * Uses scribbletune
+* [Magic The Gathering deck keeper](https://github.com/MagicTheGathering/mtg-sdk-javascript)
 * [Frontend audio processing](https://davidwalsh.name/web-audio-api)
 * [A free temporary email address page](https://temp-mail.org/en)
 * [Live Markdown editor and library with Showdown and ____](http://showdownjs.github.io/demo/)
@@ -98,10 +101,17 @@
 * [A news website that shows positive news, keeping the viewer focussed on the positive]()
 
 
+
+
+
+
+
 Complete Websites
 -----------------
 1. [Drum Kit](https://javascript30.com/account/access/593deae2168fa672793b9db5/view/6cf22385d8)
 * [Periodic Table of Beats]()
+
+
 
 
 
