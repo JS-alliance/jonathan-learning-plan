@@ -1,17 +1,15 @@
 
 Hack Reactor Coursework
 =============
-[The course](http://)
-
 
 Learn on your own:
 ------------------
-[JFree Javascript books](http://jsbooks.revolunet.com/)
+* [JFree Javascript books](http://jsbooks.revolunet.com/)
 
-[Neural Networks](http://neuralnetworksanddeeplearning.com/)
-[Using Reduce](https://egghead.io/courses/reduce-data-with-javascript)
-[](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
-CSS selectors(https://youtu.be/-k-1TU8qq0Q)	
+* [Neural Networks](http://neuralnetworksanddeeplearning.com/)
+* [Using Reduce](https://egghead.io/courses/reduce-data-with-javascript)
+* [Debugging Tips and Tricks in Chrome Dev tools](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+* [CSS selectors](https://youtu.be/-k-1TU8qq0Q)	
 
 
 
