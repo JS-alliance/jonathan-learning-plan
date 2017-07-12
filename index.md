@@ -1,8 +1,12 @@
-
-Hack Reactor Coursework
+My Learning Plan
 =============
 
-Learn on your own:
+Navigate to:
+* __[Index of learning objectives](index.md)__
+* [Project todo list](website-todo-list.md)
+* [Hack Reactor Goals](hr-goals.md)
+
+Learn on my own...
 ------------------
 * [JFree Javascript books](http://jsbooks.revolunet.com/)
 
@@ -15,9 +19,9 @@ Learn on your own:
 
 Questions I want to have answered
 ---------------------------------
-How do I merge code with as few conflicts as possible?
-- continuous integration.
-- Edit and merge the code quickly.
+
+* continuous integration.
+* Edit and merge the code quickly.
 Computer can test css visibility tags.
 A human can test if it actually looks correct.
 

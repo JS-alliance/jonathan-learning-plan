@@ -1,7 +1,15 @@
 100 Websites in 100 Days
 ========================
 
-1. [Piano](http://www.html5piano.ilinov.eu/)
+Navigate to:
+* [Index of learning objectives](index.md)
+* __[Project todo list](website-todo-list.md)__
+* [Hack Reactor Goals](hr-goals.md)
+
+Todo List
+----------
+
+* [Piano](http://www.html5piano.ilinov.eu/)
 * [Build a Binary search tree](https://www.youtube.com/watch?v=ZNH0MuQ51m4)
 * [Build a Pathfinding algorithm](https://www.youtube.com/watch?v=aKYlikFAV4k)
 * [Open graph page for marketing in google and Facebook and Twitter.]()
