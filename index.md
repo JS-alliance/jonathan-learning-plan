@@ -13,9 +13,10 @@ Learn on my own...
 * [Neural Networks](http://neuralnetworksanddeeplearning.com/)
 * [Using Reduce](https://egghead.io/courses/reduce-data-with-javascript)
 * [Debugging Tips and Tricks in Chrome Dev tools](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+* [50 Developer tools and tricks](https://www.youtube.com/watch?v=oYvtsHu6GmY)
 * [CSS selectors](https://youtu.be/-k-1TU8qq0Q)	
-
-
+* [Egghead.io](https://egghead.io)
+* [Learn React and its components](https://github.com/petehunt/react-howto)
 
 Questions I want to have answered
 ---------------------------------

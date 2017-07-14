@@ -76,6 +76,11 @@ Now `name = "Jonathan"` and `price = "priceless"`
 Generator functions
 -------------------
 
+
+https://www.youtube.com/watch?v=QO07THdLWQo
+
+
+
 Class syntax
 ------------
 
@@ -87,3 +92,11 @@ String methods:
 	repeat(n)
 
 Repeats the word n number of times.
+
+
+Promises
+---------
+
+https://youtu.be/obaSQBBWZLk?list=UUVTlvUkGslCV_h-nSAId8Sw
+
+Example project with notes: http://plnkr.co/edit/1ArvFxI0gWmajTpDaOSB?p=preview
