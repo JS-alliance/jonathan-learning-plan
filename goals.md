@@ -4,7 +4,7 @@ Hack Reactor education overview
 Navigate to:
 * [Index of learning objectives](index.md)
 * [Project todo list](website-todo-list.md)
-* __[Hack Reactor Goals](hr-goals.md)__
+* __[Goals](goals.md)__
 
 Goals to achieve at hack reactor
 --------------------------------
