@@ -62,6 +62,10 @@ The commas can destructure the array into specific index assignmets.
 
 	var [first,,,fourth] = ['France', 'Italy', 'USA', 'Russia']
 
+[Destructuring tutorials](http://www.zsoltnagy.eu/es2015-lesson-5-destructuring/)
+[Destructuring tutorials - Answers](http://www.zsoltnagy.eu/es2015-lesson-5-destructuring-solutions/)
+
+
 
 Also usable in objects:
 

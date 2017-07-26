@@ -6,21 +6,27 @@ Navigate to:
 * [Project todo list](website-todo-list.md)
 * [Hack Reactor Goals](hr-goals.md)
 
+Learning How to Learn
+---------------------
+* [The Bloc guide to learning](https://www.bloc.io/users/jonathan-lewis/checkpoints/2266?roadmap_section_id=174)
+[List of the entire process from bloc](https://www.evernote.com/shard/s684/sh/b409c54c-9375-453b-bd7a-e68be0267826/66916a116f1f73c72737af83cfabefba)
+
+
 Learn on my own...
 ------------------
 * [JFree Javascript books](http://jsbooks.revolunet.com/)
 
 * [Neural Networks](http://neuralnetworksanddeeplearning.com/)
 * [Using Reduce](https://egghead.io/courses/reduce-data-with-javascript)
-* [Debugging Tips and Tricks in Chrome Dev tools](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
-* [CSS selectors](https://youtu.be/-k-1TU8qq0Q)	
 
+* [CSS selectors](https://youtu.be/-k-1TU8qq0Q)	
+* [Egghead.io](https://egghead.io)
 
 
 Questions I want to have answered
 ---------------------------------
 
-* continuous integration.
+* Continuous integration.
 * Edit and merge the code quickly.
 Computer can test css visibility tags.
 A human can test if it actually looks correct.
@@ -59,6 +65,10 @@ Get your text editor setup to lint your code: [Hack reactor Sublime text ESLinte
 How to write modular code
 The purpose of refactoring
 
+Using the Command Line
+---------------------
+Commands: 
+  * ls, dir, mkdir, mv, touch, cat, rm, rm -r, 
 
 
 Precourse
@@ -70,6 +80,59 @@ Precourse
 [Learn Responsive web development from scratch](https://www.udemy.com/course-dashboard-redirect/?course_id=128946)
 [Learning responsive design - LinkedIn](https://www.linkedin.com/learning/learning-responsive-design/)
 The pre-course work is delivered up to 8 weeks prior to your start date. This gives you a strong foundation, and prepares you for an incredibly intense learning experience.
+
+[Debugging](debugging.md)
+---------
+Debugging.md
+ * Debugging
+   * HTML & CSS - Dev Tools
+
+
+Learn best practices for debugging and troubleshooting
+* [Debugging Tips and Tricks in Chrome Dev tools](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+* [50 Developer tools and tricks](https://www.youtube.com/watch?v=oYvtsHu6GmY)
+
+
+
+
+
+
+
+Testing
+------------
+
+* Unit testing
+  * When you're working on a new function, you need to be able to test that function in isolation and get rid of the DOM. We'll learn how to write tests for your code in isolation and to make sure that your tests are readable and non-brittle.
+  * Mocha and Chai
+    * [TEsting with Mocha for Jode JS - Pluralsight](https://app.pluralsight.com/library/courses/mocha-javascript-testing-nodejs/)
+  * Jasmine Testing
+    * [Javascript Testing - Hack Reactor - Feed Reader Testing - Udacity](https://classroom.udacity.com/courses/ud549)
+
+
+* Integration Testing
+  * 
+
+* End to End Testing
+
+
+* Usability Testing
+
+
+* Load Testing
+
+
+
+
+* End to End Testing
+ * Introducing webdriverio and selenium to allow you to test your app at the highest level so that you can fire yourself from being the person who clicks on things and squints at each one of your pages to make sure it looks right. Let your computer do that! Bonus round is to do automated visual regression-testing. We will add e2e tests to our React app.
+
+Continuous Intigration
+* [CircleCI]()
+
+
+
+
+
 * The Modern web development work environment
 * HTML
  * Web developer Bootcamp
@@ -251,8 +314,8 @@ Analyze the complexity of algorithms
  * Object oriented programming
  * Object Oriented Design
  * Test Driven Development
- * Debugging
- * Unit Testing
+
+
  * Functional Testing
  * UI Development
  * Writing documentation and good comments
@@ -263,19 +326,7 @@ Analyze the complexity of algorithms
 
 
 
-Testing
-------------
-* HTML & CSS - Dev Tools
-* End to End Testing
- * Introducing webdriverio and selenium to allow you to test your app at the highest level so that you can fire yourself from being the person who clicks on things and squints at each one of your pages to make sure it looks right. Let your computer do that! Bonus round is to do automated visual regression-testing. We will add e2e tests to our React app.
-* Unit Testing
- * [Javascript Testing - Hack Reactor - Feed Reader Testing - Udacity](https://classroom.udacity.com/courses/ud549)
-* Unit Testing with Mocha / Chai
- * You've got your top-level tests, and that's great, but when you're working on a new function, you need to be able to test that function in isolation and get rid of the DOM. We'll learn how to write tests for your code in isolation and to make sure that your tests are readable and non-brittle. Let's add unit-tests to our React app.
-* Automation and Tooling
-* [Automation and tooling with Google - Udacity - Gulp, Sass, and BabelJS, Oh My!](https://classroom.udacity.com/courses/ud892)
-Continuous Intigration
-* [CircleCI]()
+
 
 
 Text Editors and IDE's
@@ -609,9 +660,9 @@ Employ database best practices, including indexing, efficient querying, and scop
 Build robust features from scratch, including user authentication, authorization, and data-seeding
 * [Learn Oauth - Google - Udacity](https://classroom.udacity.com/courses/ud330)
 Learn intermediate programming techniques:
-Learn best practices for debugging and troubleshooting
+
 Write validation tests to ensure data integrity
-Employ test-driven development to write bug-resistant code
+
 Learn how to integrate packaged solutions for markdown rendering, pagination, and image management
 Learn how to create complex routes and associations
 Build advanced features:
@@ -633,7 +684,7 @@ Full Stack Javascript
 [Javascript from Beginner to complete understanding](https://www.udemy.com/course-dashboard-redirect/?course_id=1124560)
 [Lean Javascript - the weird parts](https://www.udemy.com/course-dashboard-redirect/?course_id=364426)
 
-Learn Full Stack JavaScript in 4 weeks in the context of working on realistic code bases.
+work on realistic code bases.
 * Mastering Javascript essentials
 * Client & Server Side concepts
 * Database & Deployment technologies
@@ -647,8 +698,6 @@ Web framework design
 RESTful API design
 * [Restfuk API design with Google - Udacity](https://classroom.udacity.com/courses/ud388)
 Build a full-stack web development framework
-Optimize software performance
-* [Website Optimization - Hack Reactor - Udacity - Website performance project](https://classroom.udacity.com/courses/ud884)
 
 * [Google Maps APIs - Udacity](https://classroom.udacity.com/courses/ud864)
 
@@ -690,15 +739,9 @@ Select at least two more projects based on your outcome goal. These projects wil
 * Video editing, sharing, production
 * Photography training, sharing, editing
 
-Open Source
------------
-Build or contribute to open-source projects
-Build your own open-source software
-Contribute to real open-source software projects
-Gain experience collaborating with professional engineers
-Learn to write maintainable and performant code
-Learn the best-practices of open-source development
-Build a unique portfolio of open-source projects and contributions that will be publicly visible on your GitHub profile
+Mobile Development
+------------------
+* Native Script [Setup an app with native script](https://app.pluralsight.com/library/courses/nativescript-cross-platform-native-mobile-apps/)
 
 
 
@@ -738,6 +781,22 @@ Application Design
 * [Designing a product - Application - Google - Udacity](https://classroom.udacity.com/courses/ud509)
 
 
+Application Build Process
+-------------------------
+* [Tooling with NPM scripts - LinkedIn Learning](https://www.linkedin.com/learning/tooling-with-npm-scripts/)
+* [How to build Angular Typescript into javascript](https://www.linkedin.com/learning/learning-angularjs-2/working-with-our-build-tool)
+
+
+
+## Automation, Tooling, and workflow
+* [Automation and tooling with Google - Udacity - Gulp, Sass, and BabelJS, Oh My!](https://classroom.udacity.com/courses/ud892)
+* [Gulp, Git, and Browserify Workflow - LinkInLearning](https://www.linkedin.com/learning/gulp-js-git-and-browserify-web-project-workflows/)
+* [Grunt and Gulp with Node JS - LinkedIn Learning](https://www.linkedin.com/learning/real-time-web-with-node-js/grunt-and-gulp)
+
+
+
+
+
 Application Deployment
 ----------------------
 Heroku
@@ -747,6 +806,17 @@ Deploying on your own server
 
 * Server Security
  * [How to setup Let's encrypt](https://www.udemy.com/course-dashboard-redirect/?course_id=1139400)
+
+
+
+## Performance Optimization
+
+Optimize software performance
+* [Website Optimization - Hack Reactor - Udacity - Website performance project](https://classroom.udacity.com/courses/ud884)
+* [Code Efficiancy - LinkedIn Learning - Simon Allardice](https://www.linkedin.com/learning/programming-foundations-code-efficiency/)
+* [Testing node with mocha and chai](https://www.linkedin.com/learning/node-js-essential-training/testing-with-mocha-and-chai)
+* [Setting up Mocha and Chai for an open source JS project](https://www.linkedin.com/learning/creating-an-open-source-javascript-library/exercise-setting-up-mocha-and-chai)
+* 
 
 Working with hardware
 - [arduino and NodeJS - Jonny-five](https://www.youtube.com/watch?v=Dkq_8kfdK5g)
@@ -771,9 +841,20 @@ Working with hardware
 	* [Bridge](https://www.instructure.com/)
 
 
-Job Search
-----------
+The Career Seach process
+========================
+Constantly throw every tool at it and optimize.
 
+Create a Plan
+-------------
+Job Search Checklist: Get a step-by-step understanding of how to kickstart an effective job search.
+Define criteria to guide your job search
+* develop a job search plan that works best for you.
+* Implement a process and cadence for managing the search.
+  * INSERT THE CAREER SEARCH REGIMINE HERE.
+
+Get yourself out there
+----------------------
 Register with freelance places:
 * [We work remotely](https://weworkremotely.com/)
 * [TopTal](https://www.toptal.com/developers/join)
@@ -782,83 +863,109 @@ Register with freelance places:
 * [Indeed](https://my.indeed.com/)
 * [Hired.com](https://hired.com)
 
-
-* develop a job search plan that works best for you.
-* Build a strong resume with coaching.
-* Represent your skills well on paper.
-* Represent your skills well in interviews.
-* Learn how to present your code and discuss open source contributions.
-* Visit development teams at local companies.
-* nAttend panel discussions with industry experts.
-* Showcase your work to potential employers in our global network.
-* Get to know members of your local tech community.
+Find your ideal job matches
+--------------------------
+Find a company you like thats looking for someone like you!
 * Take control of your career aspirations and goals
-* Communicate your skills effecctively
-* Make valuable connections
-* Identify ideal career opportunities.
-* practice interviews
+* Company
+* Position
+* Location
+* Field
+* Stack
+* Technologies
+* Your Additional background
 
-* tuning your resume
+Networking
+----------
+Connection To Bootcamp Partners
+* Get to know members of your local tech community.
+* Make valuable connections
+* Showcase your work to potential employers in our global network.
+* Visit development teams at local companies.
+Community Events: Expand a professional network through meetups, hackathons, hiring events, and job fairs.
+Hiring Engagements: Get access to presentations from hiring managers, Q+A’s with company employees, interview days at companies seeking to hire from GA, and other networking events.
+Bi-Weekly Career Talks and TechTalks featuring top employers like Amazon, Mozilla, and Twilio
+
+Technical recruiting process
+----------------------------
+* Overview of how technical recruiting works
+
+* Preparation for the recruiting process
+* Review with an experienced mentor in preparation for the recruiting process. 
+Conduct a successful job search.
+
+Present your best self before your first contact
+----------------------
+To prospective recruiters and employers
+ * cover letter writing
+* Build a strong resume with coaching.
+  * resume and portfolio critique
+  * tuning your resume
+  * Represent your skills well on paper.
 * Review / control your online presence.
+  * Review of LinkedIn profile
+  * Review of GitHub profile
+
+Master the whiteboard interview
+------------------------------
+* Programming Reinforcement exercises challenge you to problem solving with data structure and algorithms
+* A Mentor to lead mock technical interview
+  * In order to handle real technical interviews with confidence.
+  * practice interviews
+When whiteboarding, be familiar enough with the language to write code that represents your thoughts.
+Familiar enough about the ideas that you can talk about them clearly.
+* Keep your skills Sharp!
+  * [interview cake](https://www.interviewcake.com/?utm_source=simpleprogrammer)
+  * leet code
+  * code wars
+  * hacker rank
+
+Answering Technical Questions
+-----------------------------
+* Communicate your skills effecctively
+* Represent your skills well in interviews.
+* Learn how to present your code 
+  * Focus on the other person and what they want to hear.
+* Learn how to discuss open source contributions.
+* Interview Training: 
+ * Technical strategies
+
+Answering background / behavioral questions
+------------------------------------------
+ * Personal pitches
+ * Behavioral strategies
+Have a really good personal story
+Good at presenting yourself
+  * Focus on the other person and what they want to hear.
+Why you are a good  cantidate to consider.
+Some war stories.
+Experience and perspective on working through something.
+Bring your battle scars to the table.
+
+Field Trips
+-----------
+* Get an inside look at what it’s like to work at some of the coolest companies.
+* Talks with Industry Professionals: 
+  * Hiring managers
+  * practitioners
+  * alumni
+
+Contribute to Open Source
+-----------
+Build or contribute to open-source projects
+Build your own open-source software
+Contribute to real open-source software projects
+Gain experience collaborating with professional engineers
+Learn to write maintainable and performant code
+Learn the best-practices of open-source development
+Build a unique portfolio of open-source projects and contributions that will be publicly visible on your GitHub profile
+
+Keep Building your portfolio
+---------------------------
+* Professional Projects: Gain access to client projects, case studies, and portfolio-building projects.
 
 Negotiating
 -----------
 * learning negotiation tactics
 * [Bloc Article on Negotiating](https://blog.bloc.io/negotiating-power/?utm_source=social&utm_medium=blog&utm_campaign=04_13_17NegotiatingPower&utm_content=LINKEDIN)\
 * [Salary Negotiation Mindset](https://www.udemy.com/course-dashboard-redirect/?course_id=44058)
-
-The Bloc Career Support Program is a holistic collection of curriculum and services designed to prepare students for the technical recruiting process and conduct a successful job search.
-The Part-Time Web Developer Track roadmap includes dedicated material to review with an experienced mentor in preparation for the recruiting process. Programming Reinforcement exercises challenge you to problem solving with data structure and algorithms to help you master the whiteboard interview.
-Bloc Web Developer Track students receive dedicated support prior to and throughout their first technical job search, including resume and portfolio critique and a review of LinkedIn and GitHub profiles to ensure the best possible presentation to prospective employers.
-Mentors lead mock technical interviews so students can handle real technical interviews with confidence.
-Define criteria to guide their job search, and implement a process and cadence for managing the search.
-Bi-Weekly Career Talks and TechTalks featuring top employers like Amazon, Mozilla, and Twilio
-
-Technical recruiting process 
-Conduct a successful job search.
-Preparation for the recruiting process. 
-Resume and portfolio critique
-Review of LinkedIn profile to ensure the best possible presentation to prospective employers.
-Review of GitHub profile to ensure the best possible presentation to prospective employers.
-Define criteria to guide their job search, and implement a process and cadence for managing the search.
-Bi-Weekly Career Talks and TechTalks featuring top employers like Amazon, Mozilla, and Twilio
-
-Master the whiteboard interview
-------------------------------
-* Programming Reinforcement exercises challenge you to problem solving with data structure and algorithms
-
-Field Trips
------------
-* Get an inside look at what it’s like to work at some of the coolest companies.
-* Talks with Industry Professionals: hear from hiring managers, practitioners, and alumni on their experiences working in the field.
-* Professional Projects: Gain access to client projects, case studies, and portfolio-building projects.
-
-Toy Problems
-------------
-
-[interview cake](https://www.interviewcake.com/?utm_source=simpleprogrammer)
-
-
-Hire Education
---------------
-
-Career Development Workshops: 
-* Get hands*on practice in 
- * resume writing
- * personal pitches
- * cover letter writing
- * creating a digital presence
- * networking
-* Interview Training: 
- * Technical strategies
- * Behavioral strategies
- * Learn through workshops
- * Learn through mock interviews.
-Job Search Checklist: Get a step-by-step understanding of how to kickstart an effective job search.
-
-Connection To Partners
-
-Community Events: Expand a professional network through meetups, hackathons, hiring events, and job fairs.
-Hiring Engagements: Get access to presentations from hiring managers, Q+A’s with company employees, interview days at companies seeking to hire from GA, and other networking events.
-GA Profiles: Join GA’s online hiring platform where companies looking to hire can communicate directly to job-seeking grads.
-
