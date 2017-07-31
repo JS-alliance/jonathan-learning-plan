@@ -4,7 +4,7 @@ My Learning Plan
 Navigate to:
 * __[Index of learning objectives](index.md)__
 * [Project todo list](website-todo-list.md)
-* [Hack Reactor Goals](hr-goals.md)
+* [Goals](goals.md)
 
 Learning How to Learn
 ---------------------

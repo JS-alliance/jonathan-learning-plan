@@ -4,7 +4,7 @@
 Navigate to:
 * [Index of learning objectives](index.md)
 * __[Project todo list](website-todo-list.md)__
-* [Hack Reactor Goals](hr-goals.md)
+* [Goals](goals.md)
 
 Todo List
 ----------
