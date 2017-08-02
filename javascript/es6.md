@@ -1,6 +1,8 @@
 ES6
 ===
 
+[Learn about es2015-2017](http://exploringjs.com/es2016-es2017/index.html)
+[Essential Features of ES2015-2016](https://blog.mindorks.com/most-used-javascript-ecmascript-2015-es6-and-ecmascript-2016-es7-features-75682cd98596)
 [A great summary](https://github.com/zsolt-nagy/es6-summary/blob/master/README.md)
 
 

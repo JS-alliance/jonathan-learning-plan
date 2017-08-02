@@ -225,3 +225,50 @@ Need to multiply gigantic numbers?
 	}
 
 	dropElements([1, 2, 3], function(n) {return n < 3; });
+
+
+
+
+
+// groupBy takes an array and splits it into sets, grouped by the 
+// result of running eac value through the predicate. If the 
+// predicate is a string instead of a function, it groups by the 
+// property named by predicate on each of the values. 
+
+function groupBy(collection, predicate){ 
+  return collection.reduce(function(result, item, index) {
+    var key = predicate(item)
+    if (!result[key]) {
+      result[key] = [];
+    }
+    result[key].push(item);
+    return result;
+  }, {});
+}
+
+  // make an empty object result.
+  // for every item in the collection
+    // invoke the predicate on the current item,
+    // if there if no key on the result object matching the return value
+      // create the key and sets the value to an empty array
+    // pushes the value to the array at key.
+  // return the object result
+    
+  
+var firstLetter = function(word) { return word.charAt(0); }
+
+console.log(groupBy(['apple', 'cat', 'boat', 'card', 'bond'], firstLetter))
+// returns { 'a': ['apple'], 'c': ['cat', 'card'], 'b': ['boat', 'bond'] }
+
+// groupBy(['apple', 'cat', 'boat', 'card', 'bond'], 'length');
+// returns { '5': ['apple'], '4': ['boat', 'card', 'bond'], ‘3’: [‘cat’] }
+var test = groupBy([1.4, 5.6, 3.6, 1.8, 3.4], function(val) { 
+  return Math.floor(val); 
+});
+
+console.log(test);
+
+// returns { '1': [1.4, 1.8], '3': [3.4, 3.6], '5': [5.6] }
+
+
+

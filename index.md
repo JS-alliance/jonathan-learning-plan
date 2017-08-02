@@ -41,7 +41,7 @@ You'll learn to solve problems with code while applying industry best practices 
 A software engineer understands how and why something works, not just how to use it. They can architect solutions, understand trade-offs, and can account for scale and change. Software engineers understand computer science...
 We apply it to solve complex problems efficiently.
 
-By the end of this course, students should be able to:
+By the end of the course, students should be able to:
 ------------------------------------------------------
 * Build secure full-stack web applications with modern and current
 technologies, best practices, structure, and languages
@@ -248,13 +248,12 @@ Javascript Objects
 ● Javascript - Day 2 Objects - Project
 ● JavaScript - "This" purpose
 ● JavaScript - "this" binding
-● JavaScript - Day 3 This - Project
+● JavaScript - This - Project
 ● JavaScript - Closures
 ● JavaScript - Closures - Project
 ● JavaScript - Constructor Conductor - Project
 ● JavaScript - Prototypes
 ● Javascript - Object-Oriented Design
-
 
 
 * Decorator functions
@@ -268,8 +267,6 @@ Manage your code with Git and GitHub
 Code frontend programs with JavaScript
 Code backend programs with Ruby
 Master object-oriented programming techniques and best-practices with JavaScript and Ruby
-
-
 
 
 
