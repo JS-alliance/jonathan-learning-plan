@@ -1,6 +1,13 @@
 Angular
 =======
 
+
+[Use Angular to create an ecommerce site](https://hackernoon.com/deploy-an-angularjs-ecommerce-app-in-4-steps-7fba760f22df)
+[Core Angular concepts](https://blog.upstate.agency/core-concepts-for-app-development-in-angular-4b121bc1b522)
+
+[The path to upgrading Angular](https://blog.angular.io/an-upgrade-path-to-angular-at-thomson-reuters-9fc69b67c4b6)
+
+[Get started with Angular](http://www.infoworld.com/article/3198146/application-development/get-started-with-angular-the-infoworld-tutorial.html)
 [Getting Started With Angular](https://codeburst.io/getting-started-with-angular-material-db0c3c0e499e)
 [Angular Best Practice](https://codeburst.io/angular-best-practices-4bed7ae1d0b7)
 [Build an emoji app with Angular](https://hackernoon.com/how-to-build-an-emoji-game-using-angularjs-3fdf0de64cb5)
