@@ -19,5 +19,3 @@ Learn React in Pluralsight.
 [Why React is growing so quickly](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 [Learning React is easier than you think](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a)
 [Build React with JSX](http://buildwithreact.com/tutorial/jsx)
-
-[Live coding - React refactoring](https://www.youtube.com/watch?v=iGgVK2stQGE&feature=push-lsb&attr_tag=eyDUYZY0GMVZZlDS-6)
