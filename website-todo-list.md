@@ -9,6 +9,9 @@ Navigate to:
 Todo List
 ----------
 
+* [Create an animated page loader in pure CSS](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
+* [Make a Bar Chart with CSS Grid](https://css-tricks.com/making-a-bar-chart-with-css-grid/)
+* [5 sites from FullStack Academy](https://dash.generalassemb.ly/projects)
 * [Piano](http://www.html5piano.ilinov.eu/)
 * [Weight converter app - Javascript - Bootstrap 4](https://www.youtube.com/watch?v=7l-ZAuU8TXc)
 * [Build a Binary search tree](https://www.youtube.com/watch?v=ZNH0MuQ51m4)
@@ -108,7 +111,7 @@ Todo List
 * []()
 * [Projects in Javascript and jquery.](https://stackskills.com/courses/enrolled/8903)
 * [A news website that shows positive news, keeping the viewer focussed on the positive]()
-
+* [Extract emails from Craidslist Listings](https://www.fullstackacademy.com/blog/fullstack-lessons-1-javascripting-craigslist-for-fun-and-profit)
 
 
 
