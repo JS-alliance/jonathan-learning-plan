@@ -7,9 +7,13 @@ Navigate to:
 * [Project todo list](../website-todo-list.md)
 * __[Goals](../goals.md)__
 
+
+[The stacks used by various companies](https://stackshare.io/)
+
 Companies who have hired graduates (Mostly right after graduating)
 
 * Google
+  * [Where you should work if you want to work at Google](https://www.quora.com/What-kind-of-company-should-you-go-to-work-for-if-your-eventual-goal-is-to-get-hired-at-Google/answer/Travis-Addair?ref=forbes&rel_pos=1)
 * Nasa
 * Airbnb
 * Zendesk
