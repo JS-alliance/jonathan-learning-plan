@@ -1,6 +1,14 @@
 Interviewing
 ============
 
+Your objectives:
+ * Probe for the business problem
+   * Learn how much damage it is inflicting on the business right now.
+   * At a certain point, the manager will ask why you are the person to help solve this problem.
+   * You can deflect any question of the type ' how will you solve my problem'
+     * You say: "Here's a story about a similar situation I ran into a few yeaars back..."
+     * If the hiring manager presses for spceficic advice on the problem, answer this way: 
+       * "Here's the process I will follow to arrive at the best answer for you..."
 
 
 [How to Impress an interviewer](https://www.youtube.com/watch?v=pMRO2dl9z3w)
@@ -98,6 +106,8 @@ Strong handshake.
 
 Questions to ask your interviewer
 --------------------------------
+
+What do you wish more people would ask you about?
 
 What kind of people are tremendously successfull at the business?
 
