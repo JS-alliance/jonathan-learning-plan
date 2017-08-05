@@ -16,8 +16,10 @@ no matter how large the dataset, the return value can be inferred or determined 
 ## Logrithmic
 If the possible outcomes splits in 2 for each iteration.
  * Searching through A binary search tree
- * Looping through data where the end case is reached in exponentially fewer iterations the lasger the data gets.
 
+## inverse Exponential
+Where n = the square root of the size of the dataset.
+ * Looping through data where the end case is reached in exponentially fewer iterations the larger the data gets.
 
 
 ## Big O AB
