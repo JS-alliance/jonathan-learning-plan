@@ -1,11 +1,16 @@
 React
 =====
 
-Listen to episodes of javascript jabber podcasts.
+[Listen to episodes of javascript jabber podcasts.](https://devchat.tv/js-jabber)
+[Listen to Codewinds which frequently discusses React](http://codewinds.com/)
+
+[Checkout 'React Podcast'](https://player.fm/series/react-podcast)
 Note: Learn about JSX and how it works with React.  So you can choose to use it with or without jsx.
 
 Build react app in LinkedInn Learning
 Learn React in Pluralsight.
+
+[React on CodeCademy](https://www.codecademy.com/learn/react-101)
 
 [React, Up and Running - Book](https://www.dropbox.com/s/vkvw1s4aoevhy73/React%2C%20%20Up%20%26%20Running%20-%20Stoyan%20Stefanov%2C%20O%27Reilly.pdf?dl=0)
 
