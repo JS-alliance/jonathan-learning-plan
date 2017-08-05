@@ -2,6 +2,37 @@ jQuery
 ======
 
 
+[Why jQuery is relevant](https://www.youtube.com/watch?v=OBLvBcGgVQc)
+
+[jQuery on SoloLearn](https://www.sololearn.com/Play/jQuery/)
+
+
+[jQuery - Try.jQuery.com](Try.jQuery.com)
+[jQuery Level 2 - Try.jQuery.com](http://jquery-part2.codeschool.com)
+
+
+
+
+[jQuery - Animations](jQuery - Animations)
+
+[jQuery - Attributes](https://ankiweb.net/shared/info/500083976)
+
+[jQuery - Events](https://ankiweb.net/shared/info/545404601)
+
+[jQuery - DOM Manipulation](https://ankiweb.net/shared/info/1386275570)
+
+[jQuery - Selectors](https://ankiweb.net/shared/info/1312360566)
+
+https://ankiweb.net/shared/decks/jQuery%20-
+
+
+
+The most popular jQuery attribute methods and information.
+
+
+
+
+
 ## Flash Cards:
 
 ### What is the jQuery syntax for an event handler that will execute when the DOM is ready?
@@ -474,18 +505,119 @@ The animations will queue up and the animations will occur in sequence.
 
 
 
-[jQuery - Animations](jQuery - Animations)
+AJAX
+-----
 
-[jQuery - Attributes](https://ankiweb.net/shared/info/500083976)
+### What is the jQuery method for AJAX requests?
 
-[jQuery - Events](https://ankiweb.net/shared/info/545404601)
-
-[jQuery - DOM Manipulation](https://ankiweb.net/shared/info/1386275570)
-
-[jQuery - Selectors](https://ankiweb.net/shared/info/1312360566)
-
-https://ankiweb.net/shared/decks/jQuery%20-
+<pre>.ajax()
+.get()</pre>
 
 
+### What parameters are passed into the AJAX method?
 
-The most popular jQuery attribute methods and information.
+1. The request URL as a string.
+1. An object containing a sucess method, data object...
+
+
+### What is the shorthand method for get requests?
+
+<pre>.get()</pre>
+
+
+### What arguments are required in a get request?
+
+<pre>'The URL as a string'
+successCallback(){}</pre>
+
+
+### What properties can the options object have in an AJAX erquest?
+
+<pre>
+success:,
+error:,
+timeout:,
+beforeSend:,
+complete:,
+data:
+</pre>
+
+### What should be assigned to the data property in the AJAX options object?
+
+An object containing properties representing parameters and values.
+
+
+### In case of an error, what arguments are passed into the error callback?
+
+<pre>request, errorType, errorMessage</pre>
+
+
+### What is the beforeSend method for?
+
+To initiate a function when the request has been sent, like show the user a loading animation.
+
+
+### What is the complete method for?
+
+To initiate a function after the success function has been run, like to remove/stop a loading animation.
+
+
+### How can event delegation help you prevent bugs where newly rendered elements do not respond to events?
+
+By attaching the handler to a parent that renders at page load and delegating to the object rendered later.
+
+
+### What should you set on the AJAX object if you want the request to wait no longer than 3 seconds to fail?
+
+<pre>timeout: 3000,</pre>
+
+
+### 
+
+<pre></pre>
+
+
+### 
+
+<pre></pre>
+
+
+### 
+
+<pre></pre>
+
+
+### 
+
+<pre></pre>
+
+
+### 
+
+<pre></pre>
+
+
+### 
+
+<pre></pre>
+
+
+### 
+
+<pre></pre>
+
+
+### 
+
+<pre></pre>
+
+
+
+
+
+
+
+
+
+
+
