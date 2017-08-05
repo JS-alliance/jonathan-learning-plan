@@ -2,25 +2,31 @@ My Learning Plan
 =============
 
 Navigate to:
-* __[Index of learning objectives](index.md)__
-* [Project todo list](website-todo-list.md)
-* [Goals](goals.md)
+ * __[Index of learning objectives](index.md)__
+ * [Project todo list](website-todo-list.md)
+ * [Goals](goals.md)
 
 Learning How to Learn
 ---------------------
-* [The Bloc guide to learning](https://www.bloc.io/users/jonathan-lewis/checkpoints/2266?roadmap_section_id=174)
-[List of the entire process from bloc](https://www.evernote.com/shard/s684/sh/b409c54c-9375-453b-bd7a-e68be0267826/66916a116f1f73c72737af83cfabefba)
-
+ * [The Bloc guide to learning](https://www.bloc.io/users/jonathan-lewis/checkpoints/2266?roadmap_section_id=174)
+ * [List of the entire process from bloc](https://www.evernote.com/shard/s684/sh/b409c54c-9375-453b-bd7a-e68be0267826/66916a116f1f73c72737af83cfabefba)
+ * The book 'A Mind for Numbers'
+ * The book 'Mindset'
 
 Learn on my own...
 ------------------
 * [JFree Javascript books](http://jsbooks.revolunet.com/)
 
-* [Neural Networks](http://neuralnetworksanddeeplearning.com/)
-* [Using Reduce](https://egghead.io/courses/reduce-data-with-javascript)
+
 
 * [CSS selectors](https://youtu.be/-k-1TU8qq0Q)	
 * [Egghead.io](https://egghead.io)
+* [Javascript study Plan](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
+* [Top websites to learn to code](https://learntocodewith.me/posts/code-for-free/)
+
+Online Courses
+--------------
+ * [450 Free Online CS Courses](https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274)
 
 
 Questions I want to have answered
