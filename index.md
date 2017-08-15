@@ -243,23 +243,23 @@ Git
 
 Javascript Objects
 -------------------
-● JavaScript - Objects
-● JavaScript - Object Properties
-● JavaScript - Object Looping
-● JavaScript - Methods
-● JavaScript - Object Notation
-● JavaScript - Removing Keys/Properties
-● JavaScript - Arrays
-● JavaScript - Black Diamonds
-● Javascript - Day 2 Objects - Project
-● JavaScript - "This" purpose
-● JavaScript - "this" binding
-● JavaScript - This - Project
-● JavaScript - Closures
-● JavaScript - Closures - Project
-● JavaScript - Constructor Conductor - Project
-● JavaScript - Prototypes
-● Javascript - Object-Oriented Design
+● JavaScript - Objects  
+● JavaScript - Object Properties  
+● JavaScript - Object Looping  
+● JavaScript - Methods  
+● JavaScript - Object Notation  
+● JavaScript - Removing Keys/Properties  
+● JavaScript - Arrays  
+● JavaScript - Black Diamonds  
+● Javascript - Day 2 Objects - Project  
+● JavaScript - "This" purpose  
+● JavaScript - "this" binding  
+● JavaScript - This - Project  
+● JavaScript - Closures  
+● JavaScript - Closures - Project  
+● JavaScript - Constructor Conductor - Project  
+● JavaScript - Prototypes  
+● Javascript - Object-Oriented Design  
 
 
 * Decorator functions
@@ -577,27 +577,27 @@ Node JS:
 * Build quality APIs using Node.js
 * integrate data from other apps (like Twitter or Yelp) into your project.
 Apply your programming skills to web development as you build three projects.
-build full-stack web applications
-● Node - Overview
-● Node - HTTP
-● Node - Express Intro
-● Node - Importing Modules With "require"
-● Node - package.json Files
-● Node - Requiring 3rd Party Libraries
-● Node - bodyParser
-● Node - req.params
-● Node - req.query
-● Node - Express Lifecycle
-● Node - Serving Static Files
-● Node - CORS
-● Node - Express Sessions
-● Node - Security Basics
-● Node - Using Config Files to Hide Keys
+build full-stack web applications  
+● Node - Overview  
+● Node - HTTP  
+● Node - Express Intro  
+● Node - Importing Modules With "require"  
+● Node - package.json Files  
+● Node - Requiring 3rd Party Libraries  
+● Node - bodyParser  
+● Node - req.params  
+● Node - req.query  
+● Node - Express Lifecycle  
+● Node - Serving Static Files  
+● Node - CORS  
+● Node - Express Sessions  
+● Node - Security Basics  
+● Node - Using Config Files to Hide Keys  
 
-● Node - Authentication Overview
-● Node - Using Passport
-● Node - Using Sessions with Passport
-● Node - Day 4 Passport - Project
+● Node - Authentication Overview  
+● Node - Using Passport  
+● Node - Using Sessions with Passport  
+● Node - Day 4 Passport - Project  
 
 Apply object-oriented best-practices to build maintainable and performant web applications
 Build Javascript libraries for other developers to use in their applications
@@ -620,14 +620,14 @@ Databases
 ---------
 Experiment with different database technologies
 
-● Purpose of databases
-● Relational databases and tables
-● Value types
-● Create, insert, query
-● Postgres and an admin client
-● Foreign keys
-● MassiveJS
-● SQL
+● Purpose of databases  
+● Relational databases and tables  
+● Value types  
+● Create, insert, query  
+● Postgres and an admin client  
+● Foreign keys  
+● MassiveJS  
+● SQL  
 
 **SQL**
 * mySQL
