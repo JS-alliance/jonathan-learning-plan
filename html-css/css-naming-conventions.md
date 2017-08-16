@@ -8,3 +8,4 @@ css Naming conventions
 [BEM in Smash Magazine](https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/)
 
 
+[CSS architecture](https://smacss.com/book/)

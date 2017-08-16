@@ -19,7 +19,7 @@ Learn on my own...
 
 
 
-* [CSS selectors](https://youtu.be/-k-1TU8qq0Q)	
+* [CSS selectors](https://youtu.be/-k-1TU8qq0Q)
 * [Egghead.io](https://egghead.io)
 * [Javascript study Plan](https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 * [Top websites to learn to code](https://learntocodewith.me/posts/code-for-free/)
@@ -73,8 +73,8 @@ The purpose of refactoring
 
 Using the Command Line
 ---------------------
-Commands: 
-  * ls, dir, mkdir, mv, touch, cat, rm, rm -r, 
+Commands:
+  * ls, dir, mkdir, mv, touch, cat, rm, rm -r,
 
 
 Precourse
@@ -116,7 +116,7 @@ Testing
 
 
 * Integration Testing
-  * 
+  *
 
 * End to End Testing
 
@@ -243,23 +243,23 @@ Git
 
 Javascript Objects
 -------------------
-● JavaScript - Objects
-● JavaScript - Object Properties
-● JavaScript - Object Looping
-● JavaScript - Methods
-● JavaScript - Object Notation
-● JavaScript - Removing Keys/Properties
-● JavaScript - Arrays
-● JavaScript - Black Diamonds
-● Javascript - Day 2 Objects - Project
-● JavaScript - "This" purpose
-● JavaScript - "this" binding
-● JavaScript - This - Project
-● JavaScript - Closures
-● JavaScript - Closures - Project
-● JavaScript - Constructor Conductor - Project
-● JavaScript - Prototypes
-● Javascript - Object-Oriented Design
+* Objects Overview
+* Object Properties  
+* Object Looping  
+* Methods  
+* Object Notation  
+* Removing Keys/Properties  
+* Arrays  
+* Black Diamonds  
+* Day 2 Objects - Project  
+* "This" purpose  
+* "this" binding  
+* This - Project  
+* Closures  
+* Closures - Project  
+* Constructor Conductor - Project  
+* Prototypes  
+* Object-Oriented Design  
 
 
 * Decorator functions
@@ -475,10 +475,10 @@ Include images and links for your projects
 Build a blogging engine to explain your coding process and express your opinions
 Make your site stand out with a stunning design
 
-Front end Frameworks:
+## Front end Frameworks:
 ---------------------
 
-Analytics as a Service
+### Analytics as a Service
 Learn how to build an Analytics API that tracks metrics like most popular songs in your application
 Visualize the Data using D3 or ChartJS
 Learn about the powerful HTML5 Canvas element for visualizing your data
@@ -486,31 +486,30 @@ Create a full-featured dashboard that tracks your events in real-time
 
 * [Web Frameworks - Ember, Angular, Backbone Hack Reactor - Corporate app](https://classroom.udacity.com/courses/ud894)
 
-Backbone
+### Backbone
 * [Learn Backbone JS - Google - Udacity](https://www.udacity.com/course/learn-backbonejs--ud990)
 
-React
+### React
 [Learn React - LinkedIn](https://www.linkedin.com/learning/learning-react-js-2)
 [Building a web interface with ReactJS - LinkedIn](https://www.linkedin.com/learning/building-a-web-interface-with-react-js)
-* React
+
 * Redux
 * React-Router
+* React - Overview
+* React - Webpack
+* React - Components
+* React - Props
+* React - CSS
+* React - Component Lifecycle
+* React - propTypes
+* React - Mixins
+* React - jQuery and AJAX
+* React - Day 2 - Project
+* React - Flux Overview
+* React - Flux Architecture
+* React - Day 3 - Project
 
-● React - Overview
-● React - Webpack
-● React - Components
-● React - Props
-● React - CSS
-● React - Component Lifecycle
-● React - propTypes
-● React - Mixins
-● React - jQuery and AJAX
-● React - Day 2 - Project
-● React - Flux Overview
-● React - Flux Architecture
-● React - Day 3 - Project
-
-AngularJS
+### AngularJS
 [Learn and Understand AngularJS](https://www.udemy.com/learn-angularjs/learn/v4/overview)
 * Controllers
 * Services
@@ -518,42 +517,39 @@ AngularJS
 s* AJAX/HTTP/REST
 * Gulp
 
-Angular2
+### Angular2
 [Complete guide to Angular2(4)](https://www.udemy.com/course-dashboard-redirect/?course_id=756150)
 [Learn angular 2 from beginner to advanced](https://www.udemy.com/course-dashboard-redirect/?course_id=949282)
 TypeScript
 
-● Angular - Overview
-● Angular - Components
-● Angular - Building an App
-● Angular - ngRepeat
-● Angular - Filters
-● Angular - Purpose of Services
-● Angular - Injecting Services
-● Angular - Using Services in Controllers
-● Angular - Factories vs Services
-● Angular - Day 2 Services - Project
-● Angular - JSON
-● Angular - REST
-● Angular - AJAX and $http
-● Angular - $http, Promises, and .then
-● Angular - Day 3 $http - project
-● Angular - $http Requests
-● Angular - Outside Directives
-● Angular - $q and Promises
-● Angular - Day 4 API's - project
-● Angular - Routing and Templating
-● Angular - UI-Router
-● Angular - stateParams
-● Angular - Day 5 Routing - Project
-● Angular - Directives
-● Angular - Custom Directives
-● Angular - Day 6 Directives - Project
+* Angular - Overview
+* Angular - Components
+* Angular - Building an App
+* Angular - ngRepeat
+* Angular - Filters
+* Angular - Purpose of Services
+* Angular - Injecting Services
+* Angular - Using Services in Controllers
+* Angular - Factories vs Services
+* Angular - Day 2 Services - Project
+* Angular - JSON
+* Angular - REST
+* Angular - AJAX and $http
+* Angular - $http, Promises, and .then
+* Angular - Day 3 $http - project
+* Angular - $http Requests
+* Angular - Outside Directives
+* Angular - $q and Promises
+* Angular - Day 4 API's - project
+* Angular - Routing and Templating
+* Angular - UI-Router
+* Angular - stateParams
+* Angular - Day 5 Routing - Project
+* Angular - Directives
+* Angular - Custom Directives
+* Angular - Day 6 Directives - Project
 
-
-
-
-Frontend Project: Angular
+## Frontend Project: Angular
 
 Explore one of the most popular JavaScript MVC frameworks
 Learn about Angular Controllers, Directives, Services and Modules
@@ -568,7 +564,7 @@ Use cookies to let users set a screen name
 Create multiple chat rooms for different subjects
 
 
-Back End Development
+## Back End Development
 --------------------
 
 Node JS:
@@ -576,28 +572,27 @@ Node JS:
 * Build web applications from the ground up
 * Build quality APIs using Node.js
 * integrate data from other apps (like Twitter or Yelp) into your project.
-Apply your programming skills to web development as you build three projects.
-build full-stack web applications
-● Node - Overview
-● Node - HTTP
-● Node - Express Intro
-● Node - Importing Modules With "require"
-● Node - package.json Files
-● Node - Requiring 3rd Party Libraries
-● Node - bodyParser
-● Node - req.params
-● Node - req.query
-● Node - Express Lifecycle
-● Node - Serving Static Files
-● Node - CORS
-● Node - Express Sessions
-● Node - Security Basics
-● Node - Using Config Files to Hide Keys
+Apply your programming skills to web development as you build full-stack web applications
+* Node - Overview
+* Node - HTTP
+* Node - Express Intro
+* Node - Importing Modules With "require"
+* Node - package.json Files
+* Node - Requiring 3rd Party Libraries
+* Node - bodyParser
+* Node - req.params
+* Node - req.query
+* Node - Express Lifecycle
+* Node - Serving Static Files
+* Node - CORS
+* Node - Express Sessions
+* Node - Security Basics
+* Node - Using Config Files to Hide Keys
 
-● Node - Authentication Overview
-● Node - Using Passport
-● Node - Using Sessions with Passport
-● Node - Day 4 Passport - Project
+* Node - Authentication Overview
+* Node - Using Passport
+* Node - Using Sessions with Passport
+* Node - Day 4 Passport - Project
 
 Apply object-oriented best-practices to build maintainable and performant web applications
 Build Javascript libraries for other developers to use in their applications
@@ -606,7 +601,7 @@ Import data from text files
 Learn about algorithms by building a binary search feature
 Build a Replica of Reddit
 
-Backend frameworks:
+## Backend frameworks, Node.js
 - [A comparisson of Sails, express, Koa, Meteor - Article](https://www.toptal.com/nodejs/nodejs-frameworks-comparison)
 * Express
 * Sails
@@ -616,24 +611,35 @@ Backend frameworks:
 * Hapi
  * [Ovwerview of Hapi(https://www.youtube.com/watch?v=2lprC0yYeFw)]
 
-Databases
+
+### Ruby
+
+
+### Backend frameworks, Ruby
+
+#### Ruby on Rails
+Learn the fundamentals of web development with Rails
+
+
+
+## Databases
 ---------
 Experiment with different database technologies
 
-● Purpose of databases
-● Relational databases and tables
-● Value types
-● Create, insert, query
-● Postgres and an admin client
-● Foreign keys
-● MassiveJS
-● SQL
+* Purpose of databases
+* Relational databases and tables
+* Value types
+* Create, insert, query
+* Postgres and an admin client
+* Foreign keys
+* MassiveJS
+* SQL
 
-**SQL**
+### **SQL**
 * mySQL
 * PostGreSQL
 
-**no SQL**
+### **no SQL**
 * MongoDB
  * Mongoose
  * [Mongoose Tutorial - Pluralsight](https://app.pluralsight.com/library/courses/mongoose-for-nodejs-mongodb/table-of-contents)
@@ -645,17 +651,14 @@ Experiment with different database technologies
 * Firebase
  * Unified application backend
 
-AWS Lambda
+### AWS Lambda
 ---------
 Running serverless API.
 * [AWS Lambda docs](https://aws.amazon.com/lambda/)
 
 
-
-
-
 Master the basics:
-Learn the fundamentals of web development with Rails
+
 Learn the fundamentals of frontend markup with HTML and CSS
 Leverage Rails' API, including ActiveRecord, ActionView, ActionController, and ActionMailer
 Learn the fundamentals of database architecture, design, and maintenance
@@ -685,7 +688,7 @@ Integrate Stripe to charge users for premium accounts with additional features
 Full Stack Javascript
 ---------------------
 [Javascript from Beginner to complete understanding](https://www.udemy.com/course-dashboard-redirect/?course_id=1124560)
-[Lean Javascript - the weird parts](https://www.udemy.com/course-dashboard-redirect/?course_id=364426)
+[learnedn Javascript - the weird parts](https://www.udemy.com/course-dashboard-redirect/?course_id=364426)
 
 work on realistic code bases.
 * Mastering Javascript essentials
@@ -733,7 +736,6 @@ Work in teams that resemble industry standards to develop functional application
 * Learn advanced team dynamics such as agile workflow and iterative development
 
 
-
 Specialization
 --------------
 Select at least two more projects based on your outcome goal. These projects will stand out in your portfolio and position you for interviews with companies.
@@ -746,10 +748,6 @@ Mobile Development
 ------------------
 * Native Script [Setup an app with native script](https://app.pluralsight.com/library/courses/nativescript-cross-platform-native-mobile-apps/)
 
-
-
-
-Use new JavaScript frameworks
 
 Build voice-activated software using Amazon's Alexa platform
 Implement payment systems for software-as-a-service (SaaS) applications
@@ -798,14 +796,16 @@ Application Build Process
 
 
 
-
-
-Application Deployment
+## Application Deployment
 ----------------------
-Heroku
+### Heroku
 * [Deploying with Heroku - Udacity](https://classroom.udacity.com/courses/ud272)
 
-Deploying on your own server
+### Digital Ocean
+
+
+
+### Deploying on your own server
 
 * Server Security
  * [How to setup Let's encrypt](https://www.udemy.com/course-dashboard-redirect/?course_id=1139400)
@@ -819,7 +819,7 @@ Optimize software performance
 * [Code Efficiancy - LinkedIn Learning - Simon Allardice](https://www.linkedin.com/learning/programming-foundations-code-efficiency/)
 * [Testing node with mocha and chai](https://www.linkedin.com/learning/node-js-essential-training/testing-with-mocha-and-chai)
 * [Setting up Mocha and Chai for an open source JS project](https://www.linkedin.com/learning/creating-an-open-source-javascript-library/exercise-setting-up-mocha-and-chai)
-* 
+*
 
 Working with hardware
 - [arduino and NodeJS - Jonny-five](https://www.youtube.com/watch?v=Dkq_8kfdK5g)
@@ -894,7 +894,7 @@ Technical recruiting process
 * Overview of how technical recruiting works
 
 * Preparation for the recruiting process
-* Review with an experienced mentor in preparation for the recruiting process. 
+* Review with an experienced mentor in preparation for the recruiting process.
 Conduct a successful job search.
 
 Present your best self before your first contact
@@ -927,10 +927,10 @@ Answering Technical Questions
 -----------------------------
 * Communicate your skills effecctively
 * Represent your skills well in interviews.
-* Learn how to present your code 
+* Learn how to present your code
   * Focus on the other person and what they want to hear.
 * Learn how to discuss open source contributions.
-* Interview Training: 
+* Interview Training:
  * Technical strategies
 
 Answering background / behavioral questions
@@ -948,7 +948,7 @@ Bring your battle scars to the table.
 Field Trips
 -----------
 * Get an inside look at what it’s like to work at some of the coolest companies.
-* Talks with Industry Professionals: 
+* Talks with Industry Professionals:
   * Hiring managers
   * practitioners
   * alumni

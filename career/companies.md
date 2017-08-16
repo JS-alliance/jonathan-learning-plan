@@ -183,6 +183,7 @@ Companies who have hired graduates (Mostly right after graduating)
 * Gust
 * Human API
 * Evernote
+* 
 
 
 
@@ -199,4 +200,33 @@ Where I want to work:
  Pinterest
  Concur
  Ebay
- 
+
+
+
+In San Diego:
+Ingenu
+Design Experience Engineering Organization
+Rock My World 
+Integrated Associates Inc.
+Property Capsule Inc
+Intuit
+Evoke
+Verisystem
+Digium
+Kitu Systems, Inc
+Tivitie
+Ebates
+
+
+
+In LA:
+Amazon
+
+
+
+Remote:
+iFit
+
+
+
+

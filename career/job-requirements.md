@@ -16,54 +16,54 @@ SQL
 jQuery
 
 
-30 Proven experience in the field as a whole
-20 Javascript proficiancy
-16 Expert in web technology
-12 Work as part of a team
-12 Software development/architecture best practices, clean code, and design patterns
-10 Communication Skills (written and verbal)
-9/ Experience in frontend frameworks
-8/1 Experience in Agile methodology
-8 Creating scalable systems, highly available, performant
-7 / Contributions to existing work (github or app store) or portfolio link
-7/1 AWS deployment EC2
-6 Testing
-6 Continuous Integration
-6/ Work independently / Self motivated / work with little direction
-5 Git proficiency
-5 AngularJS
-5/1: jQuery
-5 / Automation
-4 / Linux
-4 Security best practice
-4 NPM
-4 Serverside Frameworks
-4 / 11 React
-4 noSQL
-4 Docker
-3 Take ownership
-3 / 6: Java
-3 /3 python
-3/2 Bootstrap
-2 Typescript
-2 Microservices
-2 Jasmine testing framework
-2 CSS frameworks
-2 Can write your own CSS
-2 Creatiung RESTful APIs
-2 Using RESTful APIs
-2/1 Scrum
-2 Angular 2
-2 SQL tech
-1 / 1 MySQL
-1 Redis
-1 SQL Server
-1 / Mongoose/MongoDB
-1 Containerization
-1 configuration management framework
-0/3 BackboneJS
-0/3 Ruby
-0/2 C++ 
+30 Proven experience in the field as a whole  
+20 Javascript proficiency  
+16 Expert in web technology  
+12 Work as part of a team  
+12 Software development/architecture best   practices, clean code, and design patterns  
+10 Communication Skills (written and verbal)  
+9/ Experience in frontend frameworks  
+8/1 Experience in Agile methodology  
+8 Creating scalable systems, highly available, performant  
+7 / Contributions to existing work (GitHub or app store) or portfolio link  
+7/1 AWS deployment EC2  
+6 Testing  
+6 Continuous Integration  
+6/ Work independently / Self motivated / work with little direction  
+5 Git proficiency  
+5 AngularJS  
+5/1: jQuery  
+5 / Automation  
+4 / Linux  
+4 Security best practice  
+4 NPM  
+4 Serverside Frameworks  
+4 / 11 React  
+4 noSQL  
+4 Docker  
+3 Take ownership  
+3 / 6: Java  
+3 /3 python  
+3/2 Bootstrap  
+2 Typescript  
+2 Microservices  
+2 Jasmine testing framework  
+2 CSS frameworks  
+2 Can write your own CSS  
+2 Creatiung RESTful APIs  
+2 Using RESTful APIs  
+2/1 Scrum  
+2 Angular 2  
+2 SQL tech  
+1 / 1 MySQL  
+1 Redis  
+1 SQL Server  
+1 / Mongoose/MongoDB  
+1 Containerization  
+1 configuration management framework  
+0/3 BackboneJS  
+0/3 Ruby  
+0/2 C++   
 
 
 ==============
@@ -73,37 +73,37 @@ REST, AJAX, HTTP, WSDL, XSD, and SOAPExperience
 
 ============
 
-The Connect Team is part of the Design Experience Engineering Organization, which is the accelerator at the heart of the ServiceNow platform. This organization designs and builds the platform’s core interfaces. We change the way people work and we need your help! We are looking for a talented, detail-oriented engineer to help develop cutting-edge collaboration tools. This position is a unique opportunity to redefine how individuals collaborate in the workplace. 
-In this role you will work with passionate engineers and designers to streamline workplace communication. Our goal is to get technology out of the way so that collaboration is intuitive and effortless. 
+The Connect Team is part of the Design Experience Engineering Organization, which is the accelerator at the heart of the ServiceNow platform. This organization designs and builds the platform’s core interfaces. We change the way people work and we need your help! We are looking for a talented, detail-oriented engineer to help develop cutting-edge collaboration tools. This position is a unique opportunity to redefine how individuals collaborate in the workplace.
+In this role you will work with passionate engineers and designers to streamline workplace communication. Our goal is to get technology out of the way so that collaboration is intuitive and effortless.
 
-5+ years web application development experience 
+5+ years web application development experience
 Expert knowledge of web technologies
-Expert knowledge of modern JavaScript 
-Expert knowledge of software architecture and design best practices 
-Proficiency in Java or similar languages 
-Experience building and consuming web services 
-Experience with AngularJS development, testing, and debugging 
-Experience with relational databases (MySQL, Oracle, SQL Server) 
-Proficiency in Git 
+Expert knowledge of modern JavaScript
+Expert knowledge of software architecture and design best practices
+Proficiency in Java or similar languages
+Experience building and consuming web services
+Experience with AngularJS development, testing, and debugging
+Experience with relational databases (MySQL, Oracle, SQL Server)
+Proficiency in Git
 
 
-The qualified candidate will be experienced as a full-stack engineer, with particular emphasis on interactive front-end web development, and able to work with other software engineers developing highly scalable, available enterprise systems. The candidate will be skilled in UI development, integrating with back-end services, and defining APIs. Must be a hands-on developer and technical leader. 
-The team works closely with other engineers such as platform architect, system integration, and application engineers to develop and deploy web-based applications. 
-Requirements: 
+The qualified candidate will be experienced as a full-stack engineer, with particular emphasis on interactive front-end web development, and able to work with other software engineers developing highly scalable, available enterprise systems. The candidate will be skilled in UI development, integrating with back-end services, and defining APIs. Must be a hands-on developer and technical leader.
+The team works closely with other engineers such as platform architect, system integration, and application engineers to develop and deploy web-based applications.
+Requirements:
 
-- 2+ years of recent JavaScript, Angular, Node, or similar 
-- 5-10+ years of object-oriented enterprise software development experience, Java desired. 
-- Strong Object Oriented Analysis and Design skills. 
-- Experience with modular, maintainable UI development. 
-- Experience with high-performance, scalable and highly available system development. 
-- Good understanding of security best practices in application development. 
-- Excellent communication skills are a must. 
-- Experience in software architecture is a plus. 
-- Knowledge of wireless technologies is a plus. 
-- Experience in a cloud environment, including production support and operations issues. 
-- Mentoring and project planning skills are a plus. 
+- 2+ years of recent JavaScript, Angular, Node, or similar
+- 5-10+ years of object-oriented enterprise software development experience, Java desired.
+- Strong Object Oriented Analysis and Design skills.
+- Experience with modular, maintainable UI development.
+- Experience with high-performance, scalable and highly available system development.
+- Good understanding of security best practices in application development.
+- Excellent communication skills are a must.
+- Experience in software architecture is a plus.
+- Knowledge of wireless technologies is a plus.
+- Experience in a cloud environment, including production support and operations issues.
+- Mentoring and project planning skills are a plus.
 
-Keywords: JavaScript, Angular, Java, Spring, RDMBS, MySQL, Cassandra, caching, REST, AMQP. 
+Keywords: JavaScript, Angular, Java, Spring, RDMBS, MySQL, Cassandra, caching, REST, AMQP.
 
 
 5+ years’ of professional development experience
@@ -118,11 +118,11 @@ Experience with CSS frameworks like Bootstrap
 Experience with Oracle PL/SQL
 
 
-Basic Qualifications 
-Experience developing web applications with HTML, CSS, Javascript, DOM, JSON, AJAX and general Web 2.0 techniquesExperience with Object Oriented JavaScript Frameworks (React, Angular, Ember, Dojo, Node etc.) Experience with MVC frameworks and expertise in at least one 3+ years of professional experience in software development using Java or another OO programming languageDesign and architecture knowledge as well as familiarity with object oriented analysis and design patterns (OOA/OOD)Strong understanding of service-oriented architecture and web application/services developmentUnderstanding of CS fundamentals including data structures, algorithms and complexity analysisBachelor's degree in Computer Science or commensurate professional experience 
+Basic Qualifications
+Experience developing web applications with HTML, CSS, Javascript, DOM, JSON, AJAX and general Web 2.0 techniquesExperience with Object Oriented JavaScript Frameworks (React, Angular, Ember, Dojo, Node etc.) Experience with MVC frameworks and expertise in at least one 3+ years of professional experience in software development using Java or another OO programming languageDesign and architecture knowledge as well as familiarity with object oriented analysis and design patterns (OOA/OOD)Strong understanding of service-oriented architecture and web application/services developmentUnderstanding of CS fundamentals including data structures, algorithms and complexity analysisBachelor's degree in Computer Science or commensurate professional experience
 
-Preferred Qualifications 
-Experience developing consumer facing websitesUnderstanding of web services technologies such as REST, AJAX, HTTP, WSDL, XSD, and SOAPExperience working in a UNIX/Linux environment Solid understanding of distributed systems and scaling of large scale systemsFamiliarity with AWS servicesAgile development methodologies 
+Preferred Qualifications
+Experience developing consumer facing websitesUnderstanding of web services technologies such as REST, AJAX, HTTP, WSDL, XSD, and SOAPExperience working in a UNIX/Linux environment Solid understanding of distributed systems and scaling of large scale systemsFamiliarity with AWS servicesAgile development methodologies
 
 Specific Responsibilities:
 
@@ -163,7 +163,7 @@ Be passionate about keeping up-to-date with latest technology and the technology
 Build tools to automate validation of AWS infrastructure.
 Experience with Agile Development, SCRUM, or Extreme Programming methodologies
 Qualifications
- 
+
 Strong development experience in developing full-stack web applications and/or tools using JEE (Java enterprise edition).
 Strong experience in developing automation frameworks and productivity improvement tools.
 Strong leadership experience: Leading meetings, presenting, technical go to person, and cross-functional leader
@@ -177,7 +177,7 @@ Excellent communication skills: Demonstrated ability to explain complex technica
 Expertise in the Software design/architecture process
 Business Acumen - strategic thinking & strategy development
 Building strong teams - set and evangelize vision, facilitative leadership, attract and retain key talent
- 
+
 
 
 You will have comprehensive understanding of the current state (and future) of web technology with a critical awareness of implications on user-centered design. You feel comfortable reading, writing, and reviewing vanilla JavaScript both on the client and server, building your own libraries and creating task automation to speed up development.
@@ -357,60 +357,60 @@ Humility: low ego; engenders trust; respectful
 
 
 Job Description:
-We are looking for a passionate Front End Developer, who is ready to work on the cutting edge of Cyber Security Software solutions. This is an excellent opportunity to become a core member of a rapidly growing software development team. You’ll engineer solutions to challenging and meaningful problems, with the ultimate goal of expanding and enhancing the iboss security solutions suite. You will possess great programming skills, have a sound understanding of engineering best practices and have the drive to deliver the very best. Additionally, you must have excellent communication skills, as you will be interfacing both with various departments internally and customers externally. 
+We are looking for a passionate Front End Developer, who is ready to work on the cutting edge of Cyber Security Software solutions. This is an excellent opportunity to become a core member of a rapidly growing software development team. You’ll engineer solutions to challenging and meaningful problems, with the ultimate goal of expanding and enhancing the iboss security solutions suite. You will possess great programming skills, have a sound understanding of engineering best practices and have the drive to deliver the very best. Additionally, you must have excellent communication skills, as you will be interfacing both with various departments internally and customers externally.
 
-This position is not eligible for sponsorship of work visas. 
+This position is not eligible for sponsorship of work visas.
 
 Responsibilities:
-Ability to design and develop clean, top-quality user interfaces using HTML5, CSS3 and Javascript 
+Ability to design and develop clean, top-quality user interfaces using HTML5, CSS3 and Javascript
 
-Adhere to established engineering and architectural patterns 
+Adhere to established engineering and architectural patterns
 
-Work as part of a team to deliver solutions in an Agile fashion 
+Work as part of a team to deliver solutions in an Agile fashion
 
-Ability to break down complex product requirements, providing development estimates as needed. 
+Ability to break down complex product requirements, providing development estimates as needed.
 
-Deliver high quality code that has been thoroughly tested 
+Deliver high quality code that has been thoroughly tested
 
 Required Qualifications:
-5+ years of experience Web UI development using HTML5, CSS3 and Javascript 
+5+ years of experience Web UI development using HTML5, CSS3 and Javascript
 
-Extensive experience using AngularJS, Bootstrap, NodeJS, JQuery (Ember, KnockoutJS) 
+Extensive experience using AngularJS, Bootstrap, NodeJS, JQuery (Ember, KnockoutJS)
 
-Passionate about creating responsive websites that adhere to a standard look and feel 
+Passionate about creating responsive websites that adhere to a standard look and feel
 
-Experience developing UIs that support full i18n 
+Experience developing UIs that support full i18n
 
-Experience with CSS libraries, such as Bootstrap, but also able to develop beautiful CSS from scratch 
+Experience with CSS libraries, such as Bootstrap, but also able to develop beautiful CSS from scratch
 
-Very comfortable working with REST and JSON 
+Very comfortable working with REST and JSON
 
-Experience with build frameworks like Grunt or Gulp, Bower, NodeJS and test libraries, such as Jasmine 
+Experience with build frameworks like Grunt or Gulp, Bower, NodeJS and test libraries, such as Jasmine
 
-Team player with excellent interpersonal skills and the ability to work in a fast-paced environment 
+Team player with excellent interpersonal skills and the ability to work in a fast-paced environment
 
-Strong analytical capability, independent thinking and good decision making skills 
+Strong analytical capability, independent thinking and good decision making skills
 
-Must have a good sense of engineering tradeoffs, with an ability to understand the impact of software changes on extendibility, scalability, performance, and maintainability 
+Must have a good sense of engineering tradeoffs, with an ability to understand the impact of software changes on extendibility, scalability, performance, and maintainability
 
-Demonstrate excellent oral and written communication skills with the ability to listen, articulate, facilitate and advocate 
+Demonstrate excellent oral and written communication skills with the ability to listen, articulate, facilitate and advocate
 
 Preferred Qualifications:
-In depth experience building single page applications with Angular JS 
+In depth experience building single page applications with Angular JS
 
-Ability to identify and resolve performance problems in code 
+Ability to identify and resolve performance problems in code
 
-Comfortable working on a Unix environment 
+Comfortable working on a Unix environment
 
-Familiarity with databases, such as Postgres 
+Familiarity with databases, such as Postgres
 
-Experience developing server side applications in Java 
+Experience developing server side applications in Java
 
 
 
 Job Description
 
-From eCommerce to AWS to Kindle, Amazon has a history of innovation and invention. The People Technology group continues that tradition by focusing on building new ways for employees to interact with each other and Amazon’s distributed infrastructure. 
+From eCommerce to AWS to Kindle, Amazon has a history of innovation and invention. The People Technology group continues that tradition by focusing on building new ways for employees to interact with each other and Amazon’s distributed infrastructure.
 
 People Technology is looking for full stack engineers who will build scalable solutions to enable the business to move fast and adapt to changing needs. They will work from the base infrastructure up to the presentation layer to create solutions that can be used by millions of people across Amazon. They will need to be able to deliver interfaces that work on multiple platforms including building strong mobile experiences for our customers.
 
@@ -421,7 +421,7 @@ Basic Qualifications
 · 5+ years professional experience in commercial or web-scale system software development and delivery
 · Proficiency in a modern programming language such as C, C++, Java, or Python
 · Understanding of scalable computing systems, software architecture, data structures, and algorithms
-· Experience with JavaScript, CSS, HTML5, Ajax or similar web frameworks 
+· Experience with JavaScript, CSS, HTML5, Ajax or similar web frameworks
 · Ability to work with server technologies like NodeJS, Ruby or other scalable server technologies
 · Communication, sharp analytical abilities and proven design skills
 Preferred Qualifications

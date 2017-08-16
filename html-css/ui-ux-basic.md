@@ -1,8 +1,14 @@
 Basic UI / UX
 ==============
 
+[How to design beautiful UO](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+
 [Browser and platform market share statistics](https://www.w3counter.com/globalstats.php)
 [Alternate Browser, OS, Social Media stats ](http://gs.statcounter.com/)
+
+[Material Design - Smashing conference talk](https://www.youtube.com/watch?v=IBU1lTfZ4Co)
+
+[Atomic Design](https://www.youtube.com/watch?v=wcAl0VXYBGE)
 
 ### What's to learn?
 As of July 2017...
