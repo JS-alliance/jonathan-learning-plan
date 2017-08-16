@@ -1,5 +1,4 @@
-My Learning Plan
-=============
+# My Learning Plan
 
 Navigate to:
  * __[Index of learning objectives](index.md)__
@@ -260,8 +259,6 @@ Javascript Objects
 * Constructor Conductor - Project  
 * Prototypes  
 * Object-Oriented Design  
-
-
 * Decorator functions
  * Add functionality to an existing object.  Takes in an object and adds keys or methods.
 * A class cretes a new object
@@ -572,7 +569,7 @@ Node JS:
 * Build web applications from the ground up
 * Build quality APIs using Node.js
 * integrate data from other apps (like Twitter or Yelp) into your project.
-Apply your programming skills to web development as you build full-stack web applications
+Apply your programming skills to web development as you build full-stack web applications  
 * Node - Overview
 * Node - HTTP
 * Node - Express Intro
