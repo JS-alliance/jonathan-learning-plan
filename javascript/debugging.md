@@ -1,6 +1,8 @@
 Debugging
 ---------
 
+[Learn how code runs](http://www.pythontutor.com/javascript.html#mode=display)
+
 [Workflow tools for web developers](https://www.linkedin.com/learning/workflow-tools-for-web-developers/)
 
 [Learn Chrome Deveoper Tools](https://www.linkedin.com/learning/learning-chrome-web-developer-tools/access-and-use-chrome-developer-tools)

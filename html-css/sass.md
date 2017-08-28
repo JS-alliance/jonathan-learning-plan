@@ -7,8 +7,9 @@ What does Sass stand for?
 
 What is Sass?
 
+[Getting started with Sass - Article](https://www.sitepoint.com/getting-started-with-sass)
 
-[Getting started with Sass](https://www.sitepoint.com/getting-started-with-sass)
+[Sass A-Z - Videos - Sitepoint](https://www.sitepoint.com/premium/courses/atoz-sass-2977/)
 
 
 What's the purpose:
@@ -55,7 +56,3 @@ Reverse
 
 
 && selector
-
-
-
-

@@ -98,11 +98,6 @@ Learn best practices for debugging and troubleshooting
 * [50 Developer tools and tricks](https://www.youtube.com/watch?v=oYvtsHu6GmY)
 
 
-
-
-
-
-
 Testing
 ------------
 
@@ -115,7 +110,7 @@ Testing
 
 
 * Integration Testing
-  *
+
 
 * End to End Testing
 
@@ -135,9 +130,6 @@ Continuous Intigration
 * [CircleCI]()
 
 
-
-
-
 * The Modern web development work environment
 * HTML
  * Web developer Bootcamp
@@ -151,7 +143,6 @@ HTML
 * HTML - Purpose
 * HTML & CSS - Skeletons
 * HTML - Elements
-
 
 
 Content Strategy
@@ -218,13 +209,6 @@ Git
 
 
 
-
-
-
-
-
-
-
 * JavaScript
 * Recursive Functions
 * Higher Order Functions
@@ -239,6 +223,7 @@ Git
 * JavaScript - Day 1 Functions
 * JavaScript - Callbacks - Project
 * JavaScript - Black Diamonds
+* JavaScript - AJAX
 
 Javascript Objects
 -------------------
@@ -260,8 +245,8 @@ Javascript Objects
 * Prototypes  
 * Object-Oriented Design  
 * Decorator functions
- * Add functionality to an existing object.  Takes in an object and adds keys or methods.
-* A class cretes a new object
+  * Add functionality to an existing object.  Takes in an object and adds keys or methods.
+* A class creates a new object
 
 Learn HTML, CSS, the Command Line, Git, GitHub, Ruby, and JavaScript. You'll use all of these tools extensively throughout Bloc as you build projects.
 Build and style web pages with HTML and CSS

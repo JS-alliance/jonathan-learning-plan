@@ -3,11 +3,16 @@ Angular
 
 [Listen to regular podcasts on Adventures in Angular](https://devchat.tv/adv-in-angular)
 
+[Angular tutorial by ANgular - guide](https://angular.io/tutorial)
+
+[Learn Angular in Treehouse](https://teamtreehouse.com/library/angular-basics-2)
 
 [Top 10 Angular Blogs and Podcasts](http://blog.angular-university.io/top-10-angular-2-tutorials-blogs-and-podcasts/)
 
 [Use Angular to create an ecommerce site](https://hackernoon.com/deploy-an-angularjs-ecommerce-app-in-4-steps-7fba760f22df)
 [Core Angular concepts](https://blog.upstate.agency/core-concepts-for-app-development-in-angular-4b121bc1b522)
+
+[Angular API and auth](https://www.linkedin.com/learning/angular-api-communication-and-authentication)
 
 [The path to upgrading Angular](https://blog.angular.io/an-upgrade-path-to-angular-at-thomson-reuters-9fc69b67c4b6)
 
