@@ -1,6 +1,6 @@
 # Angular JS
 
-AngularJS with componenets[]
+AngularJS with components[https://app.pluralsight.com/courses/building-components-angular-1-5]
 
 [Angular JS Basics - Treehouse](https://teamtreehouse.com/library/angularjs-basics-1x-2)
 
