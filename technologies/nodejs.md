@@ -17,3 +17,38 @@ Excellent [Index of how to use Node JS inproduction](https://blog.risingstack.co
 
 [TDD in NodeJS - Videos - SitePoint](https://www.sitepoint.com/premium/courses/test-driven-development-in-node-js-2932)
 [Real Time Node with Kyle Simpson - Videos - Frontend Masters](https://www.linkedin.com/learning/real-time-web-with-node-js)
+
+## modules
+
+
+## require
+
+const http = require('http');
+
+
+### https
+
+```javascript
+https.get('https.google.com/endpoint', response => {
+  //we will add the data to the body as it comes in. It comes in chunks.
+  let body = '';
+  reponse.on('data', data => {
+    //each time a bit of data is received, it will be turned to its string form and added to the message body.
+    body += data.toString();
+  });
+  response.on('end', () => {
+    JSON.parse(response.data);
+
+  });
+  console.log(response.data)
+});
+```
+are we creating different API endpoints all on one js file?
+```javascript
+if (request.url === '.../')
+//...
+if (request.url === '.../pictures')
+//...
+```
+
+Keep track of what's called where.
