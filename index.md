@@ -14,7 +14,7 @@ Learning How to Learn
 
 Learn on my own...
 ------------------
-* [JFree Javascript books](http://jsbooks.revolunet.com/)
+* [Free Javascript books](http://jsbooks.revolunet.com/)
 
 
 
@@ -26,7 +26,7 @@ Learn on my own...
 Online Courses
 --------------
  * [450 Free Online CS Courses](https://medium.freecodecamp.org/450-free-online-programming-computer-science-courses-you-can-start-in-august-dbf3cb657274)
-
+* [MIT Courses](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
 Questions I want to have answered
 ---------------------------------
