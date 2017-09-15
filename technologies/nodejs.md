@@ -29,6 +29,12 @@ const http = require('http');
 ### https
 
 ```javascript
+//a simple get request.
+const https = require("https");
+const request = https.get("https://teamtreehouse.com/chalkers.json", response => {
+  console.log(response.statusCode);
+});
+
 https.get('https.google.com/endpoint', response => {
   //we will add the data to the body as it comes in. It comes in chunks.
   let body = '';
@@ -51,4 +57,45 @@ if (request.url === '.../pictures')
 //...
 ```
 
-Keep track of what's called where.
+### errors
+
+```javascript
+request.on('error', error => console.error(error.message));
+```
+
+### try / catch
+```javascript
+response.on('end', () => {
+  try {
+    //... Do something...
+  } catch (error) {
+    console.error(error.message);
+  }
+})
+
+//Make a function to handle and print errors
+var printError = function(error) {
+  console.error(error.message);
+}
+
+
+```
+
+#### Status codes
+```javascript
+response.statusCode
+
+
+//this will make a phrase from the error 404 will instead return 'not found'
+http.STATUS_CODES(response.statusCode)
+
+
+```
+
+
+200: OK
+201: Post success
+
+301: API endpoint Moved permanently
+404: Not found
+500: Internal server error

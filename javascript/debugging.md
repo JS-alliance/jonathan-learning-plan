@@ -1,5 +1,6 @@
 Debugging
 ---------
+[Chrome Dev tools - Code School](https://www.codeschool.com/courses/discover-devtools)
 
 [Learn how code runs](http://www.pythontutor.com/javascript.html#mode=display)
 

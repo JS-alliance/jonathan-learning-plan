@@ -1,5 +1,9 @@
 # MySQL
 
+## Indtroduction
+
+[SQL Basics - Treehouse](https://teamtreehouse.com/library/sql-basics)
+
 ## Installation
 [Install MySQL on Mac osX Sierra using Homebrew](https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e)
 [Install MySQL Workbench for MacOSX using Homebrew](http://macappstore.org/mysqlworkbench/)
@@ -11,3 +15,7 @@
 
 
 [Using mySQL on Node.JS](https://www.sitepoint.com/using-node-mysql-javascript-client/)
+
+
+
+[SQL - CodeSchool]https://www.codeschool.com/courses/try-sql
