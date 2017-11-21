@@ -9,6 +9,7 @@ Navigate to:
 Todo List
 ----------
 
+* Create a page that allows you to upload a video and it will use machine learning to identify content, add metadata, and catalogue the video
 * [Create an animated page loader in pure CSS](https://codeburst.io/how-to-create-a-beautiful-animated-loader-with-nothing-but-css-d1962fc5a66c)
 * [Make a Bar Chart with CSS Grid](https://css-tricks.com/making-a-bar-chart-with-css-grid/)
 * [5 sites from FullStack Academy](https://dash.generalassemb.ly/projects)
@@ -26,7 +27,7 @@ Todo List
 * [Live Markdown editor and library with Showdown and ____](http://showdownjs.github.io/demo/)
 * [Snake game with native javascript](https://www.youtube.com/watch?v=uU5YPIvJ24Y)
 * [Create an HTML5 todo app](https://www.eduonix.com/dashboard/Learn-HTML5-Mobile-Todo-App)
-* [Javascript issue tracker with plain JS](https://www.youtube.com/watch?v=NYq9J-Eur9U)	
+* [Javascript issue tracker with plain JS](https://www.youtube.com/watch?v=NYq9J-Eur9U)
 * [Pong Like game with native javascript](https://www.udemy.com/code-your-first-game/learn/v4/overview)
 * [Side view Whack a mole game](https://www.youtube.com/watch?v=B4jGVBz7P9M&t=968s)
 * [Create a to do list in Express, MongoDB](https://stackskills.com/courses/projects-using-expressjs/lectures/390526)
@@ -57,7 +58,7 @@ Todo List
 * [Translate live what you say and play back](https://speechlogger.appspot.com/en/)
 * [Countdown page]()
 * [send a text message confirmation](https://www.digitaltrends.com/mobile/how-to-send-e-mail-to-sms-text/)
- * To tmobile(6105551212@tmomail.net) to ATT(4157947109@txt.att.net) Verizon(5551234567@vtext.com), Sprint(1234567890@messaging.sprintpcs.com), Cricket(1234567890@sms.mycricket.com), Boost(1234567890@sms.myboostmobile.com), 
+ * To tmobile(6105551212@tmomail.net) to ATT(4157947109@txt.att.net) Verizon(5551234567@vtext.com), Sprint(1234567890@messaging.sprintpcs.com), Cricket(1234567890@sms.mycricket.com), Boost(1234567890@sms.myboostmobile.com),
 * [Send an email confirmation]()
 * [Call the user confirmation]()
 * [PassportJS - Facebook - Twitter - Google integration](https://github.com/jaredhanson/passport)
