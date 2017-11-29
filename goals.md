@@ -52,3 +52,5 @@ Top 10.
 
 Being able to work with other people
 Communicate
+
+Learn to type faster [http://www.speedcoder.net/](http://www.speedcoder.net/)
