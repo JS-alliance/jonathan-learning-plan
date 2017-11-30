@@ -9,6 +9,10 @@ Containerization
 
 
 Virtualization
+
+Use:
+Vagrant
+Docker
 --------------
 
 Is this a  
