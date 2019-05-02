@@ -1,21 +1,6 @@
 What job postings are asking for:
 =================================
 
-Popularity:
-
-Javascript
-Node
-Being a leader
-
-Experience in automation and an eye for seeing those oportunities.
-
-
-SQL
-
-
-jQuery
-
-
 30 Proven experience in the field as a whole  
 20 Javascript proficiency  
 16 Expert in web technology  
